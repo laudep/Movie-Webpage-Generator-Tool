@@ -1,4 +1,4 @@
-# Udacity IPND: Stage 3 Project by Laurens: Movies Website
+# Movie Webpage Generator Tool
 
 # In this file, you can can define instances of the class Movie,
 # defined in media.py.
@@ -65,6 +65,6 @@ modern_times = media.Movie("Modern Times",
 movies = [toy_story, avatar, shawshank_redemption, lotr_fotr, lotr_rk,
           modern_times]
 
-# This function call uses rge list of movie instances as input to generate an 
+# This function call uses rge list of movie instances as input to generate an
 # HTML file and open it in the browser.
 fresh_tomatoes.open_movies_page(movies)
