@@ -1,4 +1,4 @@
-# Movie Website Project: class definitions
+# Movie Webpage Generator Tool: class definitions
 
 import webbrowser
 
