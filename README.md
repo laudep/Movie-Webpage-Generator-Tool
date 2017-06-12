@@ -1,7 +1,7 @@
 # Movie Webpage Generator Tool
 
 ### About this project
-This project dynamically generates a simple movie webpage from a Python script.
+This project dynamically generates a simple movie webpage from a Python script using the Bootstrap framework.
 The generated html pages contains the following content for each movie:
   - Movie title
   - Release date, director, cast
